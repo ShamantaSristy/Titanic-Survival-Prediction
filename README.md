@@ -41,7 +41,7 @@ This project is based on the famous [Titanic dataset from Kaggle](https://www.ka
 
 **Shamanta Sristy**  
 Beginner ML enthusiast | Passionate about data storytelling  
-[LinkedIn](https://linkedin.com/in/shamantasristy) | [Blog on Dev.to](https://dev.to/shamantasristy)
+[LinkedIn](https://www.linkedin.com/in/shamanta-sristy/) | [Blog on Dev.to](https://dev.to/shamantasristy)
 
 ---
 
